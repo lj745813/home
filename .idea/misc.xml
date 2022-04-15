@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppProject/Test8/app/src/main/res/layout/activity_add_book.xml" value="0.1" />
+        <entry key="..\:/AppProject/Test8/app/src/main/res/layout/activity_login.xml" value="0.11917098445595854" />
+        <entry key="..\:/AppProject/Test8/app/src/main/res/layout/activity_main.xml" value="0.1329479768786127" />
+        <entry key="..\:/AppProject/Test8/app/src/main/res/layout/simple_list_item_1.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
